@@ -4,8 +4,5 @@ Git is lalala
 Git has a mutable index called stage.
 Creating a new branch is quick.
 Creating another branch is quick.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple
->>>>>>> featurel
+
